@@ -1,1 +1,225 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="48" tvg-logo="https://embedtv.cv/assets/images/discoverychannel.png" group-title="Documentarios", Discovery Channel
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/discoverychannel.m3u8
+#EXTINF:-1 tvg-id="49" tvg-logo="https://embedtv.cv/assets/images/discoveryhh.png" group-title="Documentarios", Discovery H&H
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/discoveryhh.m3u8
+#EXTINF:-1 tvg-id="50" tvg-logo="https://embedtv.cv/assets/images/discoverychannel.png" group-title="Documentarios", Discovery ID
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/discoveryid.m3u8
+#EXTINF:-1 tvg-id="51" tvg-logo="https://embedtv.cv/assets/images/discoveryscience.png" group-title="Documentarios", Discovery Science
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/discoveryscience.m3u8
+#EXTINF:-1 tvg-id="52" tvg-logo="https://embedtv.cv/assets/images/discoverytheater.png" group-title="Documentarios", Discovery Theater
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/discoverytheather.m3u8
+#EXTINF:-1 tvg-id="53" tvg-logo="https://embedtv.cv/assets/images/discoveryturbo.png" group-title="Documentarios", Discovery Turbo
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/discoveryturbo.m3u8
+#EXTINF:-1 tvg-id="54" tvg-logo="https://embedtv.cv/assets/images/discoveryworld.png" group-title="Documentarios", Discovery World
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/discoveryword.m3u8
+#EXTINF:-1 tvg-id="55" tvg-logo="https://embedtv.cv/assets/images/fishtv.png" group-title="Documentarios", Fish TV
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/fish.m3u8
+#EXTINF:-1 tvg-id="63" tvg-logo="https://embedtv.cv/assets/images/gnt.png" group-title="Documentarios", Gnt
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/gnt.m3u8
+#EXTINF:-1 tvg-id="70" tvg-logo="https://embedtv.cv/assets/images/hgtv.png" group-title="Documentarios", HGTV
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/hgtv.m3u8
+#EXTINF:-1 tvg-id="56" tvg-logo="https://embedtv.cv/assets/images/history.png" group-title="Documentarios", history
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/history.m3u8
+#EXTINF:-1 tvg-id="57" tvg-logo="https://embedtv.cv/assets/images/history.png" group-title="Documentarios", history 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/history2.m3u8
+#EXTINF:-1 tvg-id="72" tvg-logo="https://embedtv.cv/assets/images/off.png" group-title="Documentarios", OFF
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/off.m3u8
+#EXTINF:-1 tvg-id="119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Apple_TV_logo.svg/960px-Apple_TV_logo.svg.png" group-title="Esportes", Apple TV
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/paramountplus2.m3u8
+#EXTINF:-1 tvg-id="119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Apple_TV_logo.svg/960px-Apple_TV_logo.svg.png" group-title="Esportes", Apple TV 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/paramountplus2.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="https://embedtv.cv/assets/images/bandsports.png" group-title="Esportes", Band Sports
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/bandsports.m3u8
+#EXTINF:-1 tvg-id="43" tvg-logo="https://embedtv.cv/assets/images/bandsports.png" group-title="Esportes", Band Sports (cópia)
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/bandsports.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="https://embedtv.cv/assets/images/cazetv.png" group-title="Esportes", CazeTV 1
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/caze1.m3u8
+#EXTINF:-1 tvg-id="114" tvg-logo="https://embedtv.cv/assets/images/cazetv.png" group-title="Esportes", CazeTV 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/caze2.m3u8
+#EXTINF:-1 tvg-id="115" tvg-logo="https://embedtv.cv/assets/images/cazetv.png" group-title="Esportes", CazeTV 3
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/caze3.m3u8
+#EXTINF:-1 tvg-id="16" tvg-logo="https://embedtv.cv/assets/images/combate.png" group-title="Esportes", Combate
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/combate.m3u8
+#EXTINF:-1 tvg-id="95" tvg-logo="https://embedtv.cv/assets/images/disneyplus.png" group-title="Esportes", Disney Plus 1
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/disneyplus1.m3u8
+#EXTINF:-1 tvg-id="96" tvg-logo="https://embedtv.cv/assets/images/disneyplus.png" group-title="Esportes", Disney Plus 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/disneyplus2.m3u8
+#EXTINF:-1 tvg-id="97" tvg-logo="https://embedtv.cv/assets/images/disneyplus.png" group-title="Esportes", Disney Plus 3
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/disneyplus3.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="https://embedtv.cv/assets/images/espn.png" group-title="Esportes", Espn
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/espn.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="https://embedtv.cv/assets/images/espn2.png" group-title="Esportes", Espn 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/espn2.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="https://embedtv.cv/assets/images/espn3.png" group-title="Esportes", Espn 3
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/espn3.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://embedtv.cv/assets/images/espn4.png" group-title="Esportes", Espn 4
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/espn4.m3u8
+#EXTINF:-1 tvg-id="21" tvg-logo="https://embedtv.cv/assets/images/espn5.png" group-title="Esportes", Espn 5
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/espn5.m3u8
+#EXTINF:-1 tvg-id="22" tvg-logo="https://embedtv.cv/assets/images/espn6.png" group-title="Esportes", Espn 6
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/espn6.m3u8
+#EXTINF:-1 tvg-id="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/960px-Paramount_Plus.svg.png" group-title="Esportes", Paramount+
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/paramountplus.m3u8
+#EXTINF:-1 tvg-id="119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/960px-Paramount_Plus.svg.png" group-title="Esportes", Paramount+ 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/paramountplus2.m3u8
+#EXTINF:-1 tvg-id="119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/960px-Paramount_Plus.svg.png" group-title="Esportes", Paramount+ 3
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/paramountplus2.m3u8
+#EXTINF:-1 tvg-id="119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/960px-Paramount_Plus.svg.png" group-title="Esportes", Paramount+ 4
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/paramountplus2.m3u8
+#EXTINF:-1 tvg-id="23" tvg-logo="https://embedtv.cv/assets/images/premiere.png" group-title="Esportes", Premiere
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/premiere.m3u8
+#EXTINF:-1 tvg-id="24" tvg-logo="https://embedtv.cv/assets/images/premiere.png" group-title="Esportes", Premiere 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/premiere2.m3u8
+#EXTINF:-1 tvg-id="25" tvg-logo="https://embedtv.cv/assets/images/premiere.png" group-title="Esportes", Premiere 3
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/premiere3.m3u8
+#EXTINF:-1 tvg-id="27" tvg-logo="https://embedtv.cv/assets/images/premiere.png" group-title="Esportes", Premiere 5
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/premiere5.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="https://embedtv.cv/assets/images/premiere.png" group-title="Esportes", Premiere 7
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/premiere7.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="https://embedtv.cv/assets/images/premiere.png" group-title="Esportes", Premiere 8
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/premiere8.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="https://embedtv.cv/assets/images/primevideo.png" group-title="Esportes", Premiere video 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/primevideo2.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="https://embedtv.cv/assets/images/primevideo.png" group-title="Esportes", Premiere video 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/primevideo2.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="Esportes", PT - Eleven 1
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_eleven1.m3u8
+#EXTINF:-1 tvg-id="99" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="Esportes", PT - Eleven 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_eleven2.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="Esportes", PT - Eleven 3
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_eleven3.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="https://embedtv.cv/assets/images/sportv.png" group-title="Esportes", PT - Sporttv 1
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_sportv1.m3u8
+#EXTINF:-1 tvg-id="102" tvg-logo="https://embedtv.cv/assets/images/sportv.png" group-title="Esportes", PT - Sporttv 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_sportv2.m3u8
+#EXTINF:-1 tvg-id="103" tvg-logo="https://embedtv.cv/assets/images/sportv.png" group-title="Esportes", PT - Sporttv 3
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_sportv3.m3u8
+#EXTINF:-1 tvg-id="104" tvg-logo="https://embedtv.cv/assets/images/sportv.png" group-title="Esportes", PT - Sporttv 4
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_sportv4.m3u8
+#EXTINF:-1 tvg-id="105" tvg-logo="https://embedtv.cv/assets/images/sportv.png" group-title="Esportes", PT - Sporttv 5
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_sportv5.m3u8
+#EXTINF:-1 tvg-id="106" tvg-logo="https://embedtv.cv/assets/images/sportv.png" group-title="Esportes", PT - Sporttv 6
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_sportv6.m3u8
+#EXTINF:-1 tvg-id="107" tvg-logo="https://embedtv.cv/assets/images/sportv.png" group-title="Esportes", PT - Sporttv 7
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_sportv7.m3u8
+#EXTINF:-1 tvg-id="109" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSapnQonhqDxs9i1yFois1d4mAyvy3_vPRzNw&s" group-title="Esportes", PT BOLA CANAL
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_abola.m3u8
+#EXTINF:-1 tvg-id="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Canal_11_FPF.svg" group-title="Esportes", PT CANAL 11
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/pt_canal11.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo="https://embedtv.cv/assets/images/sportv.png" group-title="Esportes", Sportv
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/sportv.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="https://embedtv.cv/assets/images/sportv2.png" group-title="Esportes", Sportv 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/sportv2.m3u8
+#EXTINF:-1 tvg-id="35" tvg-logo="https://embedtv.cv/assets/images/sportv2.png" group-title="Esportes", Sportv 3
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/sportv3.m3u8
+#EXTINF:-1 tvg-id="121" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/UFC_Fight_Pass_Logo.svg" group-title="Esportes", UFC FIGHT PASS
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/ufcfightpass.m3u8
+#EXTINF:-1 tvg-id="58" tvg-logo="https://embedtv.cv/assets/images/adultswim.png" group-title="Filmes e séries", Adult Swim
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/adultswim.m3u8
+#EXTINF:-1 tvg-id="59" tvg-logo="https://embedtv.cv/assets/images/ae.png" group-title="Filmes e séries", AE
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/ae.m3u8
+#EXTINF:-1 tvg-id="60" tvg-logo="https://embedtv.cv/assets/images/axn.png" group-title="Filmes e séries", AXN
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/axn.m3u8
+#EXTINF:-1 tvg-id="61" tvg-logo="https://embedtv.cv/assets/images/cinemax.png" group-title="Filmes e séries", Cinemax
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/cinemax.m3u8
+#EXTINF:-1 tvg-id="62" tvg-logo="https://embedtv.cv/assets/images/comedycentral.png" group-title="Filmes e séries", Comedy central
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/comedycentral.m3u8
+#EXTINF:-1 tvg-id="64" tvg-logo="https://embedtv.cv/assets/images/hbo.png" group-title="Filmes e séries", HBO
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/hbo.m3u8
+#EXTINF:-1 tvg-id="65" tvg-logo="https://embedtv.cv/assets/images/hbo2.png" group-title="Filmes e séries", HBO 2
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/hbo2.m3u8
+#EXTINF:-1 tvg-id="66" tvg-logo="https://embedtv.cv/assets/images/hbofamily.png" group-title="Filmes e séries", HBO FAMILY
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/hbofamily.m3u8
+#EXTINF:-1 tvg-id="67" tvg-logo="https://embedtv.cv/assets/images/hbomundi.png" group-title="Filmes e séries", HBO MUNDi
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/hbomundi.m3u8
+#EXTINF:-1 tvg-id="68" tvg-logo="https://embedtv.cv/assets/images/hboplus.png" group-title="Filmes e séries", HBO PLUS
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/hboplus.m3u8
+#EXTINF:-1 tvg-id="69" tvg-logo="https://embedtv.cv/assets/images/hbopop.png" group-title="Filmes e séries", HBO POP
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/hbopop.m3u8
+#EXTINF:-1 tvg-id="71" tvg-logo="https://embedtv.cv/assets/images/megapix.png" group-title="Filmes e séries", MEGAPIX
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/megapix.m3u8
+#EXTINF:-1 tvg-id="73" tvg-logo="https://embedtv.cv/assets/images/paramountchannel.png" group-title="Filmes e séries", Paramount
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/paramountchannel.m3u8
+#EXTINF:-1 tvg-id="74" tvg-logo="https://embedtv.cv/assets/images/sonychannel.png" group-title="Filmes e séries", Sony channel
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/sonychannel.m3u8
+#EXTINF:-1 tvg-id="75" tvg-logo="https://embedtv.cv/assets/images/space.png" group-title="Filmes e séries", Space
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/space.m3u8
+#EXTINF:-1 tvg-id="76" tvg-logo="https://embedtv.cv/assets/images/starchannel.png" group-title="Filmes e séries", Star Channel
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/starchannel.m3u8
+#EXTINF:-1 tvg-id="77" tvg-logo="https://embedtv.cv/assets/images/studiouniversal.png" group-title="Filmes e séries", Studio Universal
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/studiouniversal.m3u8
+#EXTINF:-1 tvg-id="78" tvg-logo="https://embedtv.cv/assets/images/tcm.png" group-title="Filmes e séries", TCM
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/tcm.m3u8
+#EXTINF:-1 tvg-id="79" tvg-logo="https://embedtv.cv/assets/images/telecineaction.png" group-title="Filmes e séries", Telecine Action
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/telecineaction.m3u8
+#EXTINF:-1 tvg-id="80" tvg-logo="https://embedtv.cv/assets/images/telecinecult.png" group-title="Filmes e séries", Telecine Cult
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/telecinecult.m3u8
+#EXTINF:-1 tvg-id="81" tvg-logo="https://embedtv.cv/assets/images/telecinefun.png" group-title="Filmes e séries", Telecine Fun
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/telecinefun.m3u8
+#EXTINF:-1 tvg-id="82" tvg-logo="https://embedtv.cv/assets/images/telecinepipoca.png" group-title="Filmes e séries", Telecine Pipoca
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/telecinepipoca.m3u8
+#EXTINF:-1 tvg-id="83" tvg-logo="https://embedtv.cv/assets/images/telecinepremium.png" group-title="Filmes e séries", Telecine Premium
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/telecinepremium.m3u8
+#EXTINF:-1 tvg-id="84" tvg-logo="https://embedtv.cv/assets/images/telecinetouch.png" group-title="Filmes e séries", Telecine Touch
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/telecinetouch.m3u8
+#EXTINF:-1 tvg-id="85" tvg-logo="https://embedtv.cv/assets/images/tlc.png" group-title="Filmes e séries", TLC
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/tlc.m3u8
+#EXTINF:-1 tvg-id="86" tvg-logo="https://embedtv.cv/assets/images/tnt.png" group-title="Filmes e séries", TNT
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/tnt.m3u8
+#EXTINF:-1 tvg-id="87" tvg-logo="https://embedtv.cv/assets/images/tntnovelas.png" group-title="Filmes e séries", TNT Novelas
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/tntnovelas.m3u8
+#EXTINF:-1 tvg-id="88" tvg-logo="https://embedtv.cv/assets/images/tntseries.png" group-title="Filmes e séries", TNT Series
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/tntseries.m3u8
+#EXTINF:-1 tvg-id="89" tvg-logo="https://embedtv.cv/assets/images/universaltv.png" group-title="Filmes e séries", Universal
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/universaltv.m3u8
+#EXTINF:-1 tvg-id="90" tvg-logo="https://embedtv.cv/assets/images/warnerchannel.png" group-title="Filmes e séries", Warner Channel
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/warnerchannel.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo="https://embedtv.cv/assets/images/24h.png" group-title="Infantil", 24H Chaves
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/24h_chaves.m3u8
+#EXTINF:-1 tvg-id="45" tvg-logo="https://embedtv.cv/assets/images/24h.png" group-title="Infantil", 24H Dragon Ball Z
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/24h_dragonball.m3u8
+#EXTINF:-1 tvg-id="46" tvg-logo="https://embedtv.cv/assets/images/24h.png" group-title="Infantil", 24H Naruto Clássico
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/24h_naruto.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://embedtv.cv/assets/images/24h.png" group-title="Infantil", 24H Os Simpsons
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/24h_simpsons.m3u8
+#EXTINF:-1 tvg-id="44" tvg-logo="https://embedtv.cv/assets/images/24h.png" group-title="Infantil", 24H Todo Mundo Odeia o Cris
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/24h_odeiachris.m3u8
+#EXTINF:-1 tvg-id="41" tvg-logo="https://embedtv.cv/assets/images/cartoonnetwork.png" group-title="Infantil", Cartoon Network
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="40" tvg-logo="https://embedtv.cv/assets/images/discoverykids.png" group-title="Infantil", Discovery Kids
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/discoverykids.m3u8
+#EXTINF:-1 tvg-id="38" tvg-logo="https://embedtv.cv/assets/images/nickjr.png" group-title="Infantil", Nick Junior
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/nickjunior.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="https://embedtv.cv/assets/images/nickelodeon.png" group-title="Infantil", Nickelodeon
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/nickelodeon.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://embedtv.cv/assets/images/bandnews.png" group-title="Noticias", Band News
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/bandnews.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="https://embedtv.cv/assets/images/cnnbrasil.png" group-title="Noticias", CNN Brasil
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/cnnbrasil.m3u8
+#EXTINF:-1 tvg-id="8" tvg-logo="https://embedtv.cv/assets/images/globonews.png" group-title="Noticias", Globo News
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/globonews.m3u8
+#EXTINF:-1 tvg-id="4" tvg-logo="https://embedtv.cv/assets/images/band.png" group-title="Tv aberta", Band RJ
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/bandsp.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://embedtv.cv/assets/images/globosp.png" group-title="Tv aberta", Globo AM
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/globoam.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="https://embedtv.cv/assets/images/globosp.png" group-title="Tv aberta", Globo RJ
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/globorj.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://embedtv.cv/assets/images/globosp.png" group-title="Tv aberta", Globo RS
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/globors.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://embedtv.cv/assets/images/globosp.png" group-title="Tv aberta", Globo SP
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/globosp.m3u8
+#EXTINF:-1 tvg-id="94" tvg-logo="https://embedtv.cv/assets/images/mtv.png" group-title="Tv aberta", MTV
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/mtv.m3u8
+#EXTINF:-1 tvg-id="93" tvg-logo="https://embedtv.cv/assets/images/multishow.png" group-title="Tv aberta", Multishow
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/multishow.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://embedtv.cv/assets/images/record.png" group-title="Tv aberta", Record MG
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/recordmg.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="https://embedtv.cv/assets/images/record.png" group-title="Tv aberta", Record RJ
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/recordrj.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://embedtv.cv/assets/images/record.png" group-title="Tv aberta", Record SP
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/recordsp.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="https://embedtv.cv/assets/images/sbt.png" group-title="Tv aberta", SBT SP
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/sbt.m3u8
+#EXTINF:-1 tvg-id="14" tvg-logo="https://embedtv.cv/assets/images/viva.png" group-title="Tv aberta", Viva
+https://xnn--d2ma04s8hp20.cloudfronte.lat/zzstream/viva.m3u8
