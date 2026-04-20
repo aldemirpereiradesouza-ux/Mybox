@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="ABERTOS",Band (Band SP(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/255465.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/255465.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="ABERTOS",Band (Band RJ(CDN))
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="ABERTOS",Band (Band MG(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/255482.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/255482.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="ABERTOS",Band (Band BA(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/286193.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/286193.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="ABERTOS",Band (Band Brasília(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/255472.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/255472.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cancaonova0001.png" group-title="ABERTOS",Canção Nova (Opção 01)
 http://gerenciar.vivatele.com/viva_padrao/viva2384/5.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_futura0001.png" group-title="ABERTOS",Futura (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/159.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/159.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo BA(CDN))
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo SP(CDN))
@@ -22,17 +22,17 @@ https://agropesca.live/live/globorj/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo MG(CDN))
 https://agropesca.live/live/globomg/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo Centro América(CDN))
-http://domainforxc.cfd/972712258/N978x9109z/2455.m3u8
+http://domainforxc.cfd/c683B3095j/5873513/2455.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo Nordeste(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/2428.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/2428.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo TV Morena(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/274984.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/274984.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo Brasília(CDN) )
 https://agropesca.live/live/globodf/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo Inter TV Cabugi(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/2437.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/2437.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo Verde Mares(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/2434.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/2434.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo TV Diário CE(CDN))
 https://agropesca.live/live/globoce/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo Belém(CDN))
@@ -40,13 +40,13 @@ https://agropesca.live/live/globopa/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gospelmovies0001.png" group-title="ABERTOS",Gospel Movies Television (Opção 01)
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="ABERTOS",Record (Record SP)
-http://domainforxc.cfd/live/972712258/N978x9109z/244071.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/244071.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="ABERTOS",Record (Record BA)
-http://domainforxc.cfd/live/972712258/N978x9109z/558027.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/558027.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="ABERTOS",Record (Record RJ)
-http://domainforxc.cfd/live/972712258/N978x9109z/528661.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/528661.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="ABERTOS",Record (Record PA)
-http://domainforxc.cfd/live/972712258/N978x9109z/244129.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/244129.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="ABERTOS",Record (Record RJ(Alternativo))
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redebrasil0001.png" group-title="ABERTOS",Rede Brasil (Opção 01)
@@ -54,23 +54,23 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redevida0001.png" group-title="ABERTOS",Rede Vida (Opção 01)
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/49.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redetv0001.png" group-title="ABERTOS",RedeTV! (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/80170.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/80170.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redetv0001.png" group-title="ABERTOS",RedeTV! (Opção 02)
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1215849527.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redetv0001.png" group-title="ABERTOS",RedeTV! (Opção 03)
 https://cdn2.easy.tv.br/redetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="ABERTOS",SBT (SBT SP (CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/244161.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/244161.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="ABERTOS",SBT (SBT BA(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/377246.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/377246.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="ABERTOS",SBT (SBT RJ (CDN))
 https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="ABERTOS",SBT (SBT SC (CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/244178.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/244178.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="ABERTOS",SBT (SBT RS (CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/244181.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/244181.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="ABERTOS",SBT (SBT MG (CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/244184.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/244184.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png" group-title="ABERTOS",TV Acrítica (Opção 01)
 https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png" group-title="ABERTOS",TV Acrítica (Opção 02)
@@ -88,65 +88,65 @@ https://embmaxtv.online/tvcultura/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvevangelizar0001.png" group-title="ABERTOS",TV Evangelizar (Opção 01)
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_appletv0001.png" group-title="SPORTS",Apple TV (Apple TV 1)
-http://domainforxc.cfd/live/972712258/N978x9109z/274650.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/274650.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_appletv0001.png" group-title="SPORTS",Apple TV (Apple TV 2)
-http://domainforxc.cfd/live/972712258/N978x9109z/274649.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/274649.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_bandsports0001.png" group-title="SPORTS",Band Sports (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/235.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/235.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_bandsports0001.png" group-title="SPORTS",Band Sports (Opção 02)
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/47_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_bandsports0001.png" group-title="SPORTS",Band Sports (Opção 03)
 http://45.93.9.150/bandsport/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_canalgoat0002.png" group-title="SPORTS",Canal Goat (Canal Goat 1)
-http://domainforxc.cfd/live/972712258/N978x9109z/274647.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/274647.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_canalgoat0002.png" group-title="SPORTS",Canal Goat (Canal Goat 2)
-http://domainforxc.cfd/live/972712258/N978x9109z/232222.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/232222.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_canalgoat0002.png" group-title="SPORTS",Canal Goat (Canal Goat 3)
 https://beuatle.olypinvideo.sbs/canal-goat-3/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_canalgoat0002.png" group-title="SPORTS",Canal Goat (Canal Goat 4)
 https://beuatle.olypinvideo.sbs/canal-goat-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_combate0001.png" group-title="SPORTS",Combate (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/240.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/240.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_combate0001.png" group-title="SPORTS",Combate (Opção 02)
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/49_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_combate0001.png" group-title="SPORTS",Combate (Opção 03)
 https://embmaxtv.online/combate/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_dazn0001.png" group-title="SPORTS",Dazn (Dazn 1(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/229982.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/229982.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_dazn0001.png" group-title="SPORTS",Dazn (Dazn 2(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/229984.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/229984.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_dazn0001.png" group-title="SPORTS",Dazn (Dazn 4(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/229988.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/229988.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVkNsIJ.png" group-title="SPORTS",Disney+ (Evento 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/232230.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/232230.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVkNsIJ.png" group-title="SPORTS",Disney+ (Evento 02(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/232234.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/232234.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVkNsIJ.png" group-title="SPORTS",Disney+ (Evento 03(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/232238.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/232238.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVkNsIJ.png" group-title="SPORTS",Disney+ (Evento 04(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/232242.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/232242.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png" group-title="SPORTS",Eleven Sports (Eleven Sports 1)
-http://domainforxc.cfd/live/972712258/N978x9109z/273450.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/273450.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png" group-title="SPORTS",Eleven Sports (Eleven Sports 2)
-http://domainforxc.cfd/live/972712258/N978x9109z/273451.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/273451.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png" group-title="SPORTS",Eleven Sports (Eleven Sports 3)
-http://domainforxc.cfd/live/972712258/N978x9109z/273452.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/273452.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png" group-title="SPORTS",Eleven Sports (Eleven Sports 4)
-http://domainforxc.cfd/live/972712258/N978x9109z/565030.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/565030.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png" group-title="SPORTS",Eleven Sports (Eleven Sports 5)
-http://domainforxc.cfd/live/972712258/N978x9109z/273453.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/273453.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png" group-title="SPORTS",Eleven Sports (Eleven Sports 6)
-http://domainforxc.cfd/live/972712258/N978x9109z/273454.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/273454.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/309458.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/309458.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN (Opção 02)
-http://domainforxc.cfd/live/972712258/N978x9109z/309458.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/309458.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN (Opção 03)
 https://m3u8.fazoeli.shop/espn.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN (Opção 04)
 https://embmaxtv.online/espn/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espntwo0001.png" group-title="SPORTS",ESPN 2 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/215.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/215.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espntwo0001.png" group-title="SPORTS",ESPN 2 (Opção 02)
 https://m3u8.fazoeli.shop/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espntwo0001.png" group-title="SPORTS",ESPN 2 (Opção 03)
@@ -154,7 +154,7 @@ https://m3u8.fazoeli.shop/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espntwo0001.png" group-title="SPORTS",ESPN 2 (Opção 04)
 https://embmaxtv.online/espn2/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 3 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/220.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/220.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 3 (Opção 02)
 https://m3u8.fazoeli.shop/espn3.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 3 (Opção 03)
@@ -162,25 +162,25 @@ https://m3u8.fazoeli.shop/espn3.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 3 (Opção 04)
 https://embmaxtv.online/espn3/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 4 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/225.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/225.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 4 (Opção 02)
 http://15.235.50.115:14056
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 4 (Opção 03)
-http://domainforxc.cfd/live/972712258/N978x9109z/222.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/222.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 4 (Opção 04)
 https://embmaxtv.online/espn4/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 5 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/563030.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/563030.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 5 (Opção 02)
 https://m3u8.fazoeli.shop/espn5.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 6 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/563035.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/563035.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png" group-title="SPORTS",ESPN 6 (Opção 02)
 https://embmaxtv.online/espn6/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_getv0001.png" group-title="SPORTS",GE TV (Opção 01(CDN))
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/121598.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/121598.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max (Opção 02(CDN))
 https://m3u8.fazoeli.shop/max1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max (Opção 03)
@@ -190,7 +190,7 @@ http://78.159.122.138:2082/live/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/131.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max (Opção 05)
 https://cl5minhatela.online/Content/Channel/SPOTNTHD/dsc4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 2 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/121600.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/121600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 2 (Opção 02(CDN))
 https://m3u8.fazoeli.shop/max2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 2 (Opção 03)
@@ -198,7 +198,7 @@ https://embmaxtv.online/max2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 2 (Opção 04)
 https://cdnlv.online/max2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 3 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/121604.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/121604.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 3 (Opção 02(CDN))
 https://m3u8.fazoeli.shop/max3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 3 (Opção 03)
@@ -206,7 +206,7 @@ https://cdnlv.online/max3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 3 (Opção 04)
 https://embmaxtv.online/max3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 4 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/121610.ts
+http://domainforxc.cfd/live/c683B3095j/5873513/121610.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 4 (Opção 02)
 https://m3u8.fazoeli.shop/max4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 4 (Opção 03)
@@ -214,27 +214,27 @@ http://s1.1-cup.net:2095/live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/74.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="SPORTS",HBO Max 4 (Opção 04)
 https://embmaxtv.online/max4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="SPORTS",Paramount+ (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/250563.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/250563.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="SPORTS",Paramount+ (Opção 02(CDN))
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/598_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="SPORTS",Paramount+ (Opção 03)
 https://embmaxtv.online/paramountplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="SPORTS",Paramount+ 2 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/368440.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/368440.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="SPORTS",Paramount+ 2 (Opção 02(CDN))
 https://m3u8.fazoeli.shop/paramountplus2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="SPORTS",Paramount+ 3 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/250571.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/250571.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="SPORTS",Paramount+ 3 (Opção 02)
 https://cl4minhatela.online/Content/Channel/SPOCMB3HD/dsc4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="SPORTS",Paramount+ 4 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/368448.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/368448.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="SPORTS",Paramount+ 4 (Opção 02)
 https://cl5minhatela.online/Content/Channel/SPOCMB4HD/dsc4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/494.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/494.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere (Opção 02)
-http://domainforxc.cfd/972712258/N978x9109z/494.m3u8
+http://domainforxc.cfd/c683B3095j/5873513/494.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere (Opção 03)
 http://45.93.9.150/pre1/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere (Opção 04)
@@ -242,7 +242,7 @@ https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/62_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere (Opção 05)
 https://d31ii3fk8fd7mh.cloudfront.net/out/v1/bebecfdb88004eca85a0791218dac6f0/index.mpd
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 2 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/499.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/499.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 2 (Opção 02)
 http://185.236.183.118:16512
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 2 (Opção 03)
@@ -252,7 +252,7 @@ https://embmaxtv.online/premiere2/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 2 (Opção 05)
 http://78.159.122.138:2082/live/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 3 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/504.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/504.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 3 (Opção 02)
 https://m3u8.fazoeli.shop/premiere3.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 3 (Opção 03)
@@ -262,7 +262,7 @@ https://embmaxtv.online/premiere3/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 3 (Opção 05)
 http://78.159.122.138:2082/live/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/6.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 4 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/509.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/509.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 4 (Opção 02)
 https://m3u8.fazoeli.shop/premiere4.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 4 (Opção 03)
@@ -270,7 +270,7 @@ https://m3u8.fazoeli.shop/premiere4.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 4 (Opção 04)
 https://embmaxtv.online/premiere4/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 5 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/514.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/514.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 5 (Opção 02)
 https://m3u8.fazoeli.shop/premiere5.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 5 (Opção 03)
@@ -280,7 +280,7 @@ https://embmaxtv.online/premiere5/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 5 (Opção 05)
 http://78.159.122.138:2082/live/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/178.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 6 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/519.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/519.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 6 (Opção 02)
 https://m3u8.fazoeli.shop/premiere6.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 6 (Opção 03)
@@ -290,7 +290,7 @@ https://embmaxtv.online/premiere6/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 6 (Opção 05)
 http://78.159.122.138:2082/live/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/179.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 7 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/524.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/524.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 7 (Opção 02)
 https://m3u8.fazoeli.shop/premiere7.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 7 (Opção 03)
@@ -298,19 +298,19 @@ https://cdnlv.online/premiere7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 7 (Opção 04)
 https://embmaxtv.online/premiere7/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 8 (Opção 01)
-http://domainforxc.cfd/live/972712258/N978x9109z/380749.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/380749.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png" group-title="SPORTS",Premiere 8 (Opção 02)
 https://embmaxtv.online/premiere8/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5OE999.png" group-title="SPORTS",Prime Vídeo (Opção 01)
-http://domainforxc.cfd/live/972712258/N978x9109z/537640.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/537640.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5OE999.png" group-title="SPORTS",Prime Vídeo (Opção 02)
-http://domainforxc.cfd/live/972712258/N978x9109z/537642.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/537642.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5OE999.png" group-title="SPORTS",Prime Vídeo (Opção 03)
-http://domainforxc.cfd/live/972712258/N978x9109z/537644.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/537644.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportv0001.png" group-title="SPORTS",SporTV (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/118881.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/118881.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportv0001.png" group-title="SPORTS",SporTV (Opção 02(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/21275.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/21275.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportv0001.png" group-title="SPORTS",SporTV (Opção 03)
 http://new.m3u8.one/sportv/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportv0001.png" group-title="SPORTS",SporTV (Opção 04)
@@ -318,11 +318,11 @@ https://embmaxtv.online/sportv/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportv0001.png" group-title="SPORTS",SporTV (Opção 05)
 https://cl5minhatela.online/Content/Channel/SPOCTV4K/dsc4/manifest.mpd
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvtwo0001.png" group-title="SPORTS",SporTV 2 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/554.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/554.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvtwo0001.png" group-title="SPORTS",SporTV 2 (Opção 03)
-http://domainforxc.cfd/live/972712258/N978x9109z/554.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/554.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvthree0001.png" group-title="SPORTS",SporTV 3 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/559.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/559.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvthree0001.png" group-title="SPORTS",SporTV 3 (Opção 02(CDN))
 http://new.m3u8.one/sportv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvthree0001.png" group-title="SPORTS",SporTV 3 (Opção 03)
@@ -334,45 +334,45 @@ https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/433_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvpt0001.png" group-title="SPORTS",SporTV PT (SporTV 3 PT )
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/436_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvpt0001.png" group-title="SPORTS",SporTV PT (SporTV 4 PT )
-http://domainforxc.cfd/live/972712258/N978x9109z/112002.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/112002.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvpt0001.png" group-title="SPORTS",SporTV PT (SporTV 5 PT )
-http://domainforxc.cfd/live/972712258/N978x9109z/112004.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/112004.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvpt0001.png" group-title="SPORTS",SporTV PT (SporTV 6 PT )
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/435_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_nossofut0002.png" group-title="SPORTS",SportyNet (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/301421.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/301421.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_nossofut0002.png" group-title="SPORTS",SportyNet (Opção 02(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/301421.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/301421.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/paisBTw.png" group-title="SPORTS",UFC Fight Pass (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/250112.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/250112.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/paisBTw.png" group-title="SPORTS",UFC Fight Pass (Opção 02)
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/580_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/paisBTw.png" group-title="SPORTS",UFC Fight Pass (Opção 03)
 https://embmaxtv.online/ufcfightpass/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_xsports0001.png" group-title="SPORTS",XSports (Opção 01)
-http://domainforxc.cfd:80/live/972712258/N978x9109z/580835.m3u8
+http://domainforxc.cfd:80/live/c683B3095j/5873513/580835.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_xsports0001.png" group-title="SPORTS",XSports (Opção 02)
-http://domainforxc.cfd/live/972712258/N978x9109z/580834.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/580834.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TEXo8R.png" group-title="INFANTIL",Adult Swim (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/376344.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/376344.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TEXo8R.png" group-title="INFANTIL",Adult Swim (Opção 02(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/376344.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/376344.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_anitv0001.png" group-title="INFANTIL",AniTV (Opção 01)
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cartoon0001.png" group-title="INFANTIL",Cartoon Network (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/352.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/352.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cartoon0001.png" group-title="INFANTIL",Cartoon Network (Opção 02)
-http://domainforxc.cfd/live/972712258/N978x9109z/21230.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/21230.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cartoon0001.png" group-title="INFANTIL",Cartoon Network (Opção 03)
 https://embmaxtv.online/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cartoonito0001.png" group-title="INFANTIL",Cartoonito (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/110683.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/110683.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cartoonito0001.png" group-title="INFANTIL",Cartoonito (Opção 02)
-http://domainforxc.cfd/live/972712258/N978x9109z/110684.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/110684.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cartoonito0001.png" group-title="INFANTIL",Cartoonito (Opção 03)
 https://embmaxtv.online/cartoonito/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_discoverykids0001.png" group-title="INFANTIL",Discovery Kids (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/364.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/364.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_discoverykids0001.png" group-title="INFANTIL",Discovery Kids (Opção 02)
 https://m3u8.fazoeli.shop/discoverykids.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_discoverykids0001.png" group-title="INFANTIL",Discovery Kids (Opção 03)
@@ -380,23 +380,23 @@ https://embmaxtv.online/discoverykids/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_disneychannel0001.png" group-title="INFANTIL",Disney Channel (Opção 01(CDN))
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/129_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_dogtv0001.png" group-title="INFANTIL",Dog TV (Opção 01)
-http://domainforxc.cfd/live/972712258/N978x9109z/112054.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/112054.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_dreamworks0001.png" group-title="INFANTIL",Dreamworks (Opção 01)
 https://cdn-fortaleza-1.nxplay.com.br/DREAMWORKS/mono.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_zoomoo0001.png" group-title="INFANTIL",DumDum (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/311639.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/311639.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_zoomoo0001.png" group-title="INFANTIL",DumDum (Opção 02)
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/137_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_foxkids0001.png" group-title="INFANTIL",Fox Kids (Opção 01)
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gloob0001.png" group-title="INFANTIL",Gloob (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/377228.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/377228.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gloob0001.png" group-title="INFANTIL",Gloob (Opção 02)
 https://m3u8.fazoeli.shop/gloob.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gloob0001.png" group-title="INFANTIL",Gloob (Opção 03)
 https://embmaxtv.online/gloob/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gloobinho0001.png" group-title="INFANTIL",Gloobinho (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/377232.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/377232.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gloobinho0001.png" group-title="INFANTIL",Gloobinho (Opção 02)
 https://embmaxtv.online/gloobinho/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gospelcartoon0001.png" group-title="INFANTIL",Gospel Cartoon (Opção 01)
@@ -410,11 +410,11 @@ https://nanacloud.filevideo.live/Qt3JfK6nPw/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvratimbum0001.png" group-title="INFANTIL",TV Rá Tim Bum! (Opção 01(CDN))
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_bandnews0001.png" group-title="NEWS",Band News (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/469.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/469.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_bandnews0001.png" group-title="NEWS",Band News (Opção 02)
 https://m3u8.fazoeli.shop/bandnews.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cnnbrasil0001.png" group-title="NEWS",CNN Brasil (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/474.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/474.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cnnbrasil0001.png" group-title="NEWS",CNN Brasil (Opção 02)
 https://m3u8.fazoeli.shop/cnnbrasil.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cnnbrasil0001.png" group-title="NEWS",CNN Brasil (Opção 03)
@@ -422,7 +422,7 @@ http://78.159.122.138:2082/live/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/22.m
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cnnbrasil0001.png" group-title="NEWS",CNN Brasil (Opção 04)
 https://mf.fazoeli.co.za/get_token.php?ip=%s&channel=cnnbrasil&fonte=megaflix&return_json
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globonews0001.png" group-title="NEWS",Globo News (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/479.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/479.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globonews0001.png" group-title="NEWS",Globo News (Opção 02)
 http://79.127.238.228:14093/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5FPUiOf.png" group-title="NEWS",Jovem Pan (Opção 01(CDN))
@@ -430,11 +430,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_realmadridtv0001.png" group-title="NEWS",Real Madrid TV (Opção 01)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_recordnews0001.png" group-title="NEWS",Record News (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/488.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/488.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_recordnews0001.png" group-title="NEWS",Record News (Opção 02)
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_a&e0001.png" group-title="FILMSESERIES",A&E (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/666.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/666.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_a&e0001.png" group-title="FILMSESERIES",A&E (Opção 02)
 http://185.236.183.118:16002
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_a&e0001.png" group-title="FILMSESERIES",A&E (Opção 03)
@@ -442,107 +442,107 @@ https://embmaxtv.online/aee/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_a&e0001.png" group-title="FILMSESERIES",A&E (Opção 04)
 https://s2.canais-cdn-1.icu/fontes/embedtv/ae.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_amc0001.png" group-title="FILMSESERIES",AMC (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/671.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/671.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_amc0001.png" group-title="FILMSESERIES",AMC (Opção 02(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/59171.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/59171.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_axn0001.png" group-title="FILMSESERIES",AXN (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/676.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/676.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_axn0001.png" group-title="FILMSESERIES",AXN (Opção 02)
-http://domainforxc.cfd/live/972712258/N978x9109z/676.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/676.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_axn0001.png" group-title="FILMSESERIES",AXN (Opção 03)
 https://embmaxtv.online/axn/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PuNxoS.png" group-title="FILMSESERIES",Canal Brasil (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/146.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/146.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 01)
-http://domainforxc.cfd/live/972712258/N978x9109z/18253.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18253.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 02)
-http://domainforxc.cfd/live/972712258/N978x9109z/18254.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18254.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 03)
-http://domainforxc.cfd/live/972712258/N978x9109z/18255.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18255.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 04)
-http://domainforxc.cfd/live/972712258/N978x9109z/18256.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18256.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 05)
-http://domainforxc.cfd/live/972712258/N978x9109z/18257.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18257.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 06)
-http://domainforxc.cfd/live/972712258/N978x9109z/18258.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18258.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 07)
-http://domainforxc.cfd/live/972712258/N978x9109z/18259.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18259.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 08)
-http://domainforxc.cfd/live/972712258/N978x9109z/18260.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18260.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 09)
-http://domainforxc.cfd/live/972712258/N978x9109z/18261.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18261.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 10)
-http://domainforxc.cfd/live/972712258/N978x9109z/560375.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/560375.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 11)
-http://domainforxc.cfd/live/972712258/N978x9109z/560376.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/560376.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 12)
-http://domainforxc.cfd/live/972712258/N978x9109z/560377.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/560377.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 13)
-http://domainforxc.cfd/live/972712258/N978x9109z/560378.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/560378.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 14)
-http://domainforxc.cfd/live/972712258/N978x9109z/560379.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/560379.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 15)
-http://domainforxc.cfd/live/972712258/N978x9109z/560380.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/560380.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 16)
-http://domainforxc.cfd/live/972712258/N978x9109z/560381.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/560381.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 17)
-http://domainforxc.cfd/live/972712258/N978x9109z/560382.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/560382.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 18)
-http://domainforxc.cfd/live/972712258/N978x9109z/560383.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/560383.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 19)
-http://domainforxc.cfd/live/972712258/N978x9109z/560384.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/560384.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="FILMSESERIES",Cine Sky (Cine Sky 20)
-http://domainforxc.cfd/live/972712258/N978x9109z/560385.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/560385.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinemax0001.png" group-title="FILMSESERIES",Cinemax (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/682.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/682.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinemax0001.png" group-title="FILMSESERIES",Cinemax (Opção 02)
-http://domainforxc.cfd/live/972712258/N978x9109z/680.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/680.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinemax0001.png" group-title="FILMSESERIES",Cinemax (Opção 03)
-http://domainforxc.cfd/live/972712258/N978x9109z/679.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/679.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_eurochannel0001.png" group-title="FILMSESERIES",Eurochannel (Opção 01)
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/97_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbo0001.png" group-title="FILMSESERIES",HBO (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/18751.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18751.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbo0001.png" group-title="FILMSESERIES",HBO (Opção 02)
 https://m3u8.fazoeli.shop/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbo0001.png" group-title="FILMSESERIES",HBO (Opção 03)
 https://embmaxtv.online/hbo/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbotwo0001.png" group-title="FILMSESERIES",HBO 2 (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/18755.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18755.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbotwo0001.png" group-title="FILMSESERIES",HBO 2 (Opção 02)
 https://m3u8.fazoeli.shop/hbo2.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbotwo0001.png" group-title="FILMSESERIES",HBO 2 (Opção 03)
 https://embmaxtv.online/hbo2/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbofamily0001.png" group-title="FILMSESERIES",HBO Family (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/18759.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18759.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbofamily0001.png" group-title="FILMSESERIES",HBO Family (Opção 02)
-http://domainforxc.cfd/live/972712258/N978x9109z/18760.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18760.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbofamily0001.png" group-title="FILMSESERIES",HBO Family (Opção 02)
 https://embmaxtv.online/hbofamily/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hboplus0001.png" group-title="FILMSESERIES",HBO Plus (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/18764.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18764.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hboplus0001.png" group-title="FILMSESERIES",HBO Plus (Opção 02)
 https://m3u8.fazoeli.shop/hboplus.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hboplus0001.png" group-title="FILMSESERIES",HBO Plus (Opção 03)
 https://embmaxtv.online/hboplus/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbopop0001.png" group-title="FILMSESERIES",HBO Pop (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/18779.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18779.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbopop0001.png" group-title="FILMSESERIES",HBO Pop (Opção 02)
 https://m3u8.fazoeli.shop/hbopop.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbopop0001.png" group-title="FILMSESERIES",HBO Pop (Opção 03)
 https://embmaxtv.online/hbopop/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbosignature0001.png" group-title="FILMSESERIES",HBO Signature (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/18767.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18767.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbosignature0001.png" group-title="FILMSESERIES",HBO Signature (Opção 02)
 https://embmaxtv.online/hbosignature/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbomundi0001.png" group-title="FILMSESERIES",HBO Xtreme (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/18775.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/18775.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbomundi0001.png" group-title="FILMSESERIES",HBO Xtreme (Opção 02)
 https://m3u8.fazoeli.shop/hboxtreme.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbomundi0001.png" group-title="FILMSESERIES",HBO Xtreme (Opção 03)
 https://embmaxtv.online/hboxtreme/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_megapix0001.png" group-title="FILMSESERIES",Megapix (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/692.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/692.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_megapix0001.png" group-title="FILMSESERIES",Megapix (Opção 02)
 https://m3u8.fazoeli.shop/megapix.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_megapix0001.png" group-title="FILMSESERIES",Megapix (Opção 03)
@@ -550,107 +550,107 @@ https://embmaxtv.online/megapix/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_megapix0001.png" group-title="FILMSESERIES",Megapix (Opção 04(NC))
 https://netcinez.ch/tv/playertv2.php?n=megapix
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sony0001.png" group-title="FILMSESERIES",Sony Channel (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/702.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/702.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sony0001.png" group-title="FILMSESERIES",Sony Channel (Opção 02)
 https://m3u8.fazoeli.shop/sonychannel.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sony0001.png" group-title="FILMSESERIES",Sony Channel (Opção 03)
 https://embmaxtv.online/sonychannel/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_space0001.png" group-title="FILMSESERIES",Space (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/707.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/707.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_space0001.png" group-title="FILMSESERIES",Space (Opção 02(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/705.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/705.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_space0001.png" group-title="FILMSESERIES",Space (Opção 03)
 https://embmaxtv.online/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_studiochannel0001.png" group-title="FILMSESERIES",Studio Universal (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/713.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/713.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_studiochannel0001.png" group-title="FILMSESERIES",Studio Universal (Opção 02)
 https://m3u8.fazoeli.shop/studiouniversal.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_studiochannel0001.png" group-title="FILMSESERIES",Studio Universal (Opção 03)
 https://embmaxtv.online/studiouniversal/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tcm0001.png" group-title="FILMSESERIES",TCM (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/740.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/740.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tcm0001.png" group-title="FILMSESERIES",TCM (Opção 02)
 https://m3u8.fazoeli.shop/tcm.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecineaction0001.png" group-title="FILMSESERIES",Telecine Action (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/615.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/615.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecineaction0001.png" group-title="FILMSESERIES",Telecine Action (Opção 02)
 https://m3u8.fazoeli.shop/telecineaction.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecineaction0001.png" group-title="FILMSESERIES",Telecine Action (Opção 03)
 https://embmaxtv.online/tcaction/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinecult0001.png" group-title="FILMSESERIES",Telecine Cult (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/620.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/620.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinecult0001.png" group-title="FILMSESERIES",Telecine Cult (Opção 02)
 https://m3u8.fazoeli.shop/telecinecult.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinecult0001.png" group-title="FILMSESERIES",Telecine Cult (Opção 03)
 https://embmaxtv.online/tcault
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinefun0001.png" group-title="FILMSESERIES",Telecine Fun (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/625.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/625.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinefun0001.png" group-title="FILMSESERIES",Telecine Fun (Opção 02)
 http://15.235.50.115:14018
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinefun0001.png" group-title="FILMSESERIES",Telecine Fun (Opção 03)
 https://embmaxtv.online/tcfun/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinepipoca0001.png" group-title="FILMSESERIES",Telecine Pipoca (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/630.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/630.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinepipoca0001.png" group-title="FILMSESERIES",Telecine Pipoca (Opção 02)
 https://m3u8.fazoeli.shop/telecinepipoca.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinepipoca0001.png" group-title="FILMSESERIES",Telecine Pipoca (Opção 03)
 https://embmaxtv.online/tcpipoca/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinepremium0001.png" group-title="FILMSESERIES",Telecine Premium (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/635.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/635.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinepremium0001.png" group-title="FILMSESERIES",Telecine Premium (Opção 02)
 https://m3u8.fazoeli.shop/telecinepremium.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinepremium0001.png" group-title="FILMSESERIES",Telecine Premium (Opção 03)
 https://embmaxtv.online/tcpremium/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinetouch0001.png" group-title="FILMSESERIES",Telecine Touch (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/589.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/589.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinetouch0001.png" group-title="FILMSESERIES",Telecine Touch (Opção 02)
 https://m3u8.fazoeli.shop/telecinetouch.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinetouch0001.png" group-title="FILMSESERIES",Telecine Touch (Opção 03)
 https://embmaxtv.online/tctouch/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tnt0001.png" group-title="FILMSESERIES",TNT (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/733.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/733.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tnt0001.png" group-title="FILMSESERIES",TNT (Opção 02(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/731.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/731.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tnt0001.png" group-title="FILMSESERIES",TNT (Opção 03)
 https://embmaxtv.online/tnt/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzOhQNq.png" group-title="FILMSESERIES",TNT Novelas (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/264555.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/264555.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzOhQNq.png" group-title="FILMSESERIES",TNT Novelas (Opção 02)
 http://45.235.0.78/TBS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzOhQNq.png" group-title="FILMSESERIES",TNT Novelas (Opção 03)
 https://embmaxtv.online/tntnovelas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tntseries0001.png" group-title="FILMSESERIES",TNT Séries (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/738.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/738.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tntseries0001.png" group-title="FILMSESERIES",TNT Séries (Opção 02)
 https://m3u8.fazoeli.shop/tntseries.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tntseries0001.png" group-title="FILMSESERIES",TNT Séries (Opção 03)
 https://embmaxtv.online/tntseries/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_universaltv0001.png" group-title="FILMSESERIES",Universal TV (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/743.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/743.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_universaltv0001.png" group-title="FILMSESERIES",Universal TV (Opção 02)
 https://m3u8.fazoeli.shop/universaltv.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_universaltv0001.png" group-title="FILMSESERIES",Universal TV (Opção 03)
 https://embmaxtv.online/universaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdoR43Z.png" group-title="FILMSESERIES",USA (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/718.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/718.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdoR43Z.png" group-title="FILMSESERIES",USA (Opção 02)
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/174_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_warner0001.png" group-title="FILMSESERIES",Warner (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/749.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/749.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_warner0001.png" group-title="FILMSESERIES",Warner (Opção 02)
 https://m3u8.fazoeli.shop/warnerchannel.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_warner0001.png" group-title="FILMSESERIES",Warner (Opção 03)
 https://embmaxtv.online/warner/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_bis0001.png" group-title="VARIEDADES",Bis (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/376504.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/376504.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_curta0001.png" group-title="VARIEDADES",Curta! (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/2612.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/2612.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_fashiontv0001.png" group-title="VARIEDADES",Fashion TV (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/2476.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/2476.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_fishtv0001.png" group-title="VARIEDADES",Fish TV (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/248.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/248.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_foodnetwork0001.png" group-title="VARIEDADES",Food Network (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/2480.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/2480.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_foodnetwork0001.png" group-title="VARIEDADES",Food Network (Opção 02)
 http://15.235.11.7:14168
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gplaynovelas0001.png" group-title="VARIEDADES",Globoplay Novelas (Opção 01(CDN))
@@ -658,37 +658,37 @@ http://79.127.238.228:14455
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gplaynovelas0001.png" group-title="VARIEDADES",Globoplay Novelas (Opção 02)
 http://45.235.0.78/VIVA-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gnt0001.png" group-title="VARIEDADES",GNT (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/377238.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/377238.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gnt0001.png" group-title="VARIEDADES",GNT (Opção 02)
 https://m3u8.fazoeli.shop/gnt.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gnt0001.png" group-title="VARIEDADES",GNT (Opção 03)
 https://embmaxtv.online/gnt/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_lifetime0001.png" group-title="VARIEDADES",Lifetime (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/2488.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/2488.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_lifetime0001.png" group-title="VARIEDADES",Lifetime (Opção 02)
 http://185.236.183.117:14446
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_maisglobosat0001.png" group-title="VARIEDADES",Modo Viagem (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/89181.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/89181.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_multishow0001.png" group-title="VARIEDADES",Multishow (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/377241.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/377241.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_multishow0001.png" group-title="VARIEDADES",Multishow (Opção 02)
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/143_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_multishow0001.png" group-title="VARIEDADES",Multishow (Opção 03)
 https://embmaxtv.online/multishow/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_musicboxbr0001.png" group-title="VARIEDADES",Music Box Brazil (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/2520.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/2520.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_primeboxbrazil0001.png" group-title="VARIEDADES",Prime Box Brazil (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/537632.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/537632.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOznDVO.png" group-title="VARIEDADES",TLC (Opção 01(CDN))
-http://domainforxc.cfd/live/972712258/N978x9109z/728.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/728.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOznDVO.png" group-title="VARIEDADES",TLC (Opção 02)
 https://98.olaiptv.xyz:8443/streams/N9CgRRne9f/a3xJy36TST/122_.m3u8?crypt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOznDVO.png" group-title="VARIEDADES",TLC (Opção 03)
 https://embmaxtv.online/tlc/video.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tracebrasil0001.png" group-title="VARIEDADES",Trace Brasil (Opção 01)
-http://domainforxc.cfd/live/972712258/N978x9109z/2532.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/2532.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_travelboxbrazil0001.png" group-title="VARIEDADES",Travel Box Brazil (Opção 01)
-http://domainforxc.cfd/live/972712258/N978x9109z/376353.m3u8
+http://domainforxc.cfd/live/c683B3095j/5873513/376353.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mB3Kqii.png" group-title="24HORAS",A Vaca e o Frango (Opção 01)
 http://24hrs.homelinux.com:8080/24H-avacaeofrango/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mB3Kqii.png" group-title="24HORAS",Aladdin (Opção 01)
