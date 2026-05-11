@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "22215742",
-        "password": "10451034",
+        "username": "9550888",
+        "password": "7382212",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "megga10.top",
+        "url": "peercast.sbs",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
