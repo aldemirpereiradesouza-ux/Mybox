@@ -1,34 +1,46 @@
-{
-  "codigos": [
-    "123456",
-    "123567",
-    "125477",
-    "252554",
-    "345678",
-    "456789",
-    "567890",
-    "678901",
-    "789012",
-    "890123",
-    "901234",
-    "112233",
-    "223344",
-    "334455",
-    "445566",
-    "556677",
-    "667788",
-    "778899",
-    "889900",
-    "990011",
-    "101112",
-    "121314",
-    "141516",
-    "161718",
-    "181920",
-    "202122",
-    "212223",
-    "232425",
-    "242526",
-    "262728"
-  ]
-}
+[
+  {
+    "servidor": "http://cldnew.com",
+    "link_m3u": "http://cldnew.com/get.php?username=EGSSfe&password=ZZtnHP&type=m3u_plus&output=m3u8"
+  },
+  {
+    "servidor": "http://megga10.top",
+    "link_m3u": "http://megga10.top/get.php?username=522362000397&password=690322730876&type=m3u_plus&output=m3u8"
+  },
+  {
+    "servidor": "http://megga10.top",
+    "link_m3u": "http://megga10.top/get.php?username=22215742&password=10451034&type=m3u_plus&output=m3u8"
+  },
+  {
+    "servidor": "http://megga10.top",
+    "link_m3u": "http://megga10.top/get.php?username=417365166292&password=188364190641&type=m3u_plus&output=m3u8"
+  },
+  {
+    "servidor": "http://megga10.top",
+    "link_m3u": "http://megga10.top/get.php?username=757454773&password=677783533&type=m3u_plus&output=m3u8"
+  },
+  {
+    "servidor": "http://megga10.top",
+    "link_m3u": "http://megga10.top/get.php?username=95728606&password=48726442&type=m3u_plus&output=m3u8"
+  },
+  {
+    "servidor": "http://megga10.top",
+    "link_m3u": "http://megga10.top/get.php?username=05934763&password=79322261&type=m3u_plus&output=m3u8"
+  },
+  {
+    "servidor": "http://megga10.top",
+    "link_m3u": "http://megga10.top/get.php?username=57627091&password=99528796&type=m3u_plus&output=m3u8"
+  },
+  {
+    "servidor": "http://megga10.top",
+    "link_m3u": "http://megga10.top/get.php?username=396390&password=066134&type=m3u_plus&output=m3u8"
+  },
+  {
+    "servidor": "http://megga10.top",
+    "link_m3u": "http://megga10.top/get.php?username=883847538673&password=483617679187&type=m3u_plus&output=m3u8"
+  },
+  {
+    "servidor": "http://megga10.top",
+    "link_m3u": "http://megga10.top/get.php?username=557226985520&password=912631875471&type=m3u_plus&output=m3u8"
+  }
+]
