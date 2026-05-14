@@ -187,7 +187,7 @@ https://megaflix.cloudfronte.lat/zzzstream/pt_sportv7.m3u8
 https://megaflix.cloudfronte.lat/zzzstream/paramountplus.m3u8
 #EXTINF:-1 tvg-id="paramountplus2" tvg-logo="https://img.faz-o-eli.online/paramountplus2.prev.png" group-title="Canais",Paramount Plus 2
 https://megaflix.cloudfronte.lat/zzzstream/paramountplus2.m3u8
-#EXTINF:-1 tvg-id="playboy" tvg-logo="https://img.faz-o-eli.online/playboy.prev.png" group-title="Canais",Play Boy
+#EXTINF:-1 tvg-id="paramountplus" tvg-logo="https://img.faz-o-eli.online/playboy.prev.png" group-title="Canais",Paramount Plus 3
 https://megaflix.cloudfronte.lat/zzzstream/playboy.m3u8
 #EXTINF:-1 tvg-id="premiere" tvg-logo="https://img.faz-o-eli.online/premiere.prev.png" group-title="Canais",Premiere 1
 https://megaflix.cloudfronte.lat/zzzstream/premiere.m3u8
@@ -271,3 +271,4 @@ https://megaflix.cloudfronte.lat/zzzstream/universaltv.m3u8
 https://megaflix.cloudfronte.lat/zzzstream/warnerchannel.m3u8
 #EXTINF:-1 tvg-id="xsports" tvg-logo="https://img.faz-o-eli.online/xsports.prev.png" group-title="Canais",XSports
 https://megaflix.cloudfronte.lat/zzzstream/xsports.m3u8
+
