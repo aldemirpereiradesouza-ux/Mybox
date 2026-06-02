@@ -18,9 +18,9 @@ http://dns.explouddev.com/live/287945811/148063/159.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo BA(CDN))
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo SP(CDN))
-https://agropesca.live/live/globosp/index.m3u8
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/289881.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo RJ(CDN))
-https://agropesca.live/live/globorj/index.m3u8
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/2376.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo MG(CDN 2))
 http://38.247.134.19:80/live/92370341211/30082393260/375051
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo Centro América(CDN))
@@ -30,13 +30,13 @@ http://dns.explouddev.com/live/287945811/148063/2428.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo TV Morena(CDN))
 http://dns.explouddev.com/live/287945811/148063/274984.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo Brasília(CDN))
-https://agropesca.live/live/globodf/index.m3u8
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/2452.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo Inter TV Cabugi(CDN))
 http://dns.explouddev.com/live/287945811/148063/2437.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo Verde Mares(CDN))
 http://dns.explouddev.com/live/287945811/148063/2434.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo TV Diário CE(CDN))
-https://agropesca.live/live/globoce/index.m3u8
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/530124.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="ABERTOS",Globo (Globo Belém(CDN))
 https://agropesca.live/live/globopa/index.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gospelmovies0001.png" group-title="ABERTOS",Gospel Movies Television (Opção 01)
