@@ -963,3 +963,457 @@ http://dns.explouddev.com:80/live/529778152/b759U1776T/272709.m3u8
 http://dns.explouddev.com:80/live/529778152/b759U1776T/272705.m3u8
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png" group-title="24HORAS",YT-Policia Militar (Opção 01)
 http://dns.explouddev.com:80/live/529778152/b759U1776T/272706.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/espn-plus-guide.png" group-title="ESPN+ ",***ESPNplus Channel Guide***
+http://lunar.pm:8080/RandyJ/9876/135059
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus01:
+http://lunar.pm:8080/RandyJ/9876/138840
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus02:
+http://lunar.pm:8080/RandyJ/9876/138841
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus03:
+http://lunar.pm:8080/RandyJ/9876/138842
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus04:
+http://lunar.pm:8080/RandyJ/9876/138843
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus05:
+http://lunar.pm:8080/RandyJ/9876/138844
+#EXTINF:-1 tvg-id="5" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus06:
+http://lunar.pm:8080/RandyJ/9876/138845
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus07:
+http://lunar.pm:8080/RandyJ/9876/138846
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus08:
+http://lunar.pm:8080/RandyJ/9876/138847
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus09:
+http://lunar.pm:8080/RandyJ/9876/138848
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus10:
+http://lunar.pm:8080/RandyJ/9876/138849
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus11:
+http://lunar.pm:8080/RandyJ/9876/138850
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus12:
+http://lunar.pm:8080/RandyJ/9876/138851
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus13:
+http://lunar.pm:8080/RandyJ/9876/138852
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus14:
+http://lunar.pm:8080/RandyJ/9876/138853
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus15:
+http://lunar.pm:8080/RandyJ/9876/138854
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus16:
+http://lunar.pm:8080/RandyJ/9876/138855
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus17:
+http://lunar.pm:8080/RandyJ/9876/138856
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus18:
+http://lunar.pm:8080/RandyJ/9876/138857
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus19:
+http://lunar.pm:8080/RandyJ/9876/138858
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus20:
+http://lunar.pm:8080/RandyJ/9876/138859
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus21:
+http://lunar.pm:8080/RandyJ/9876/138860
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus22:
+http://lunar.pm:8080/RandyJ/9876/138861
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus23:
+http://lunar.pm:8080/RandyJ/9876/138862
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus24:
+http://lunar.pm:8080/RandyJ/9876/138863
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus25:
+http://lunar.pm:8080/RandyJ/9876/138864
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus26:
+http://lunar.pm:8080/RandyJ/9876/138865
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus27:
+http://lunar.pm:8080/RandyJ/9876/138866
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus28:
+http://lunar.pm:8080/RandyJ/9876/138867
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus29:
+http://lunar.pm:8080/RandyJ/9876/138868
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus30:
+http://lunar.pm:8080/RandyJ/9876/138869
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus31:
+http://lunar.pm:8080/RandyJ/9876/138870
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus32:
+http://lunar.pm:8080/RandyJ/9876/138871
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus33:
+http://lunar.pm:8080/RandyJ/9876/138872
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus34:
+http://lunar.pm:8080/RandyJ/9876/138873
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus35:
+http://lunar.pm:8080/RandyJ/9876/138874
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus36:
+http://lunar.pm:8080/RandyJ/9876/138875
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus37:
+http://lunar.pm:8080/RandyJ/9876/138876
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus38:
+http://lunar.pm:8080/RandyJ/9876/138877
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus39:
+http://lunar.pm:8080/RandyJ/9876/138878
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus40:
+http://lunar.pm:8080/RandyJ/9876/138879
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus41:
+http://lunar.pm:8080/RandyJ/9876/138880
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus42:
+http://lunar.pm:8080/RandyJ/9876/138881
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus43:
+http://lunar.pm:8080/RandyJ/9876/138882
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus44:
+http://lunar.pm:8080/RandyJ/9876/138883
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus45:
+http://lunar.pm:8080/RandyJ/9876/138884
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus46:
+http://lunar.pm:8080/RandyJ/9876/138885
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus47:
+http://lunar.pm:8080/RandyJ/9876/138886
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus48:
+http://lunar.pm:8080/RandyJ/9876/138887
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus49:
+http://lunar.pm:8080/RandyJ/9876/138888
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus50:
+http://lunar.pm:8080/RandyJ/9876/138889
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus51:
+http://lunar.pm:8080/RandyJ/9876/138890
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus52:
+http://lunar.pm:8080/RandyJ/9876/138891
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus53:
+http://lunar.pm:8080/RandyJ/9876/138892
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus54:
+http://lunar.pm:8080/RandyJ/9876/138893
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus55:
+http://lunar.pm:8080/RandyJ/9876/138894
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus56:
+http://lunar.pm:8080/RandyJ/9876/138895
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus57:
+http://lunar.pm:8080/RandyJ/9876/138896
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus58:
+http://lunar.pm:8080/RandyJ/9876/138897
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus59:
+http://lunar.pm:8080/RandyJ/9876/138898
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus60:
+http://lunar.pm:8080/RandyJ/9876/138899
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus61:
+http://lunar.pm:8080/RandyJ/9876/138900
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus62:
+http://lunar.pm:8080/RandyJ/9876/138901
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus63:
+http://lunar.pm:8080/RandyJ/9876/138902
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus64:
+http://lunar.pm:8080/RandyJ/9876/138903
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus65:
+http://lunar.pm:8080/RandyJ/9876/138904
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus66:
+http://lunar.pm:8080/RandyJ/9876/138905
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus67:
+http://lunar.pm:8080/RandyJ/9876/138906
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus68:
+http://lunar.pm:8080/RandyJ/9876/138907
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus69:
+http://lunar.pm:8080/RandyJ/9876/138908
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus70:
+http://lunar.pm:8080/RandyJ/9876/138909
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus71:
+http://lunar.pm:8080/RandyJ/9876/138910
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus72:
+http://lunar.pm:8080/RandyJ/9876/138911
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus73:
+http://lunar.pm:8080/RandyJ/9876/138912
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus74:
+http://lunar.pm:8080/RandyJ/9876/138913
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus75:
+http://lunar.pm:8080/RandyJ/9876/138914
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus76:
+http://lunar.pm:8080/RandyJ/9876/138915
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus77:
+http://lunar.pm:8080/RandyJ/9876/138916
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus78:
+http://lunar.pm:8080/RandyJ/9876/138917
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus79:
+http://lunar.pm:8080/RandyJ/9876/138918
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus80:
+http://lunar.pm:8080/RandyJ/9876/138919
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus81:
+http://lunar.pm:8080/RandyJ/9876/138920
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus82:
+http://lunar.pm:8080/RandyJ/9876/138921
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus83:
+http://lunar.pm:8080/RandyJ/9876/138922
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus84:
+http://lunar.pm:8080/RandyJ/9876/138923
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus85:
+http://lunar.pm:8080/RandyJ/9876/138924
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus86:
+http://lunar.pm:8080/RandyJ/9876/138925
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus87:
+http://lunar.pm:8080/RandyJ/9876/138926
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus88:
+http://lunar.pm:8080/RandyJ/9876/138927
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus89:
+http://lunar.pm:8080/RandyJ/9876/138928
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus90:
+http://lunar.pm:8080/RandyJ/9876/138929
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus91:
+http://lunar.pm:8080/RandyJ/9876/138930
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus92:
+http://lunar.pm:8080/RandyJ/9876/138931
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus93:
+http://lunar.pm:8080/RandyJ/9876/138932
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus94:
+http://lunar.pm:8080/RandyJ/9876/138933
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus95:
+http://lunar.pm:8080/RandyJ/9876/138934
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus96:
+http://lunar.pm:8080/RandyJ/9876/138935
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus97:
+http://lunar.pm:8080/RandyJ/9876/138936
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus98:
+http://lunar.pm:8080/RandyJ/9876/138937
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus99:
+http://lunar.pm:8080/RandyJ/9876/138938
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus100:
+http://lunar.pm:8080/RandyJ/9876/138939
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus101:
+http://lunar.pm:8080/RandyJ/9876/138940
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus102:
+http://lunar.pm:8080/RandyJ/9876/138941
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus103:
+http://lunar.pm:8080/RandyJ/9876/138942
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus104:
+http://lunar.pm:8080/RandyJ/9876/138943
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus105:
+http://lunar.pm:8080/RandyJ/9876/138944
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus106:
+http://lunar.pm:8080/RandyJ/9876/138945
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus107:
+http://lunar.pm:8080/RandyJ/9876/138946
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus108:
+http://lunar.pm:8080/RandyJ/9876/138947
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus109:
+http://lunar.pm:8080/RandyJ/9876/138948
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus110:
+http://lunar.pm:8080/RandyJ/9876/138949
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-plus-us.png" group-title="ESPN+ ",ESPNplus111:
+http://lunar.pm:8080/RandyJ/9876/138950
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/80551114131.png" group-title="Brazil",BR: Animal Planet HD
+http://lunar.pm:8080/RandyJ/9876/135598
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/6426483356.jpg" group-title="Brazil",BR: AXN HD
+http://lunar.pm:8080/RandyJ/9876/135599
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/6080735391.png" group-title="Brazil",BR: BAND Campinas HD
+http://lunar.pm:8080/RandyJ/9876/135600
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/2530055673.jpg" group-title="Brazil",BR: BAND NEWS HD
+http://lunar.pm:8080/RandyJ/9876/135601
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/93090885481.png" group-title="Brazil",BR: BAND SP HD
+http://lunar.pm:8080/RandyJ/9876/135602
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/d2a8d6cee6b6cc2ef769949fe246204b.png" group-title="Brazil",BR: BAND Sports HD
+http://lunar.pm:8080/RandyJ/9876/135603
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/4126212192.jpg" group-title="Brazil",BR: Boomerang HD
+http://lunar.pm:8080/RandyJ/9876/135604
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/80165564791.png" group-title="Brazil",BR: Canal Brasil SD
+http://lunar.pm:8080/RandyJ/9876/135605
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/45604925601.png" group-title="Brazil",BR: Combate HD
+http://lunar.pm:8080/RandyJ/9876/135606
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/4401546efb1795a043faae9163a6c2033820.png" group-title="Brazil",BR: Discovery HOME & Health HD
+http://lunar.pm:8080/RandyJ/9876/135607
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/51527452641.png" group-title="Brazil",BR: Discovery KIDS HD
+http://lunar.pm:8080/RandyJ/9876/135608
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/46746082951.png" group-title="Brazil",BR: Discovery Science HD
+http://lunar.pm:8080/RandyJ/9876/135609
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/a27992787da3a7926dd6f9e016eb0458.png" group-title="Brazil",BR: Discovery TLC HD
+http://lunar.pm:8080/RandyJ/9876/135610
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/538278b7e4155d2aa1efd727fb06ad0d.png" group-title="Brazil",BR: Discovery Turbo HD
+http://lunar.pm:8080/RandyJ/9876/135611
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/5b81cd54525354811bc5b82652be46352917.jpg" group-title="Brazil",BR: Discovery World FHD
+http://lunar.pm:8080/RandyJ/9876/135612
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/65430865521.png" group-title="Brazil",BR: Discovery World SD
+http://lunar.pm:8080/RandyJ/9876/135613
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/32574651421.png" group-title="Brazil",BR: Disney Junior HD
+http://lunar.pm:8080/RandyJ/9876/135614
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/55272714191.png" group-title="Brazil",BR: Disney XD HD
+http://lunar.pm:8080/RandyJ/9876/135615
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/53074266441.png" group-title="Brazil",BR: ESPN 2 HD
+http://lunar.pm:8080/RandyJ/9876/135616
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/95537313091.png" group-title="Brazil",BR: ESPN Brasil HD
+http://lunar.pm:8080/RandyJ/9876/135617
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/1a0f0e3d18e12fa0abe583c00a5c6ccf.png" group-title="Brazil",BR: ESPN Extra HD
+http://lunar.pm:8080/RandyJ/9876/135618
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/62204407471.png" group-title="Brazil",BR: FISH TV HD
+http://lunar.pm:8080/RandyJ/9876/135619
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/18812204581.png" group-title="Brazil",BR: FOOD Network HD
+http://lunar.pm:8080/RandyJ/9876/135620
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/8791116259.jpg" group-title="Brazil",BR: FOX LIFE HD
+http://lunar.pm:8080/RandyJ/9876/135621
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/1593279190.jpg" group-title="Brazil",BR: FOX Premium 2 HD
+http://lunar.pm:8080/RandyJ/9876/135622
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/79941526291.png" group-title="Brazil",BR: FOX Sports 1 HD
+http://lunar.pm:8080/RandyJ/9876/135623
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/37444895591.png" group-title="Brazil",BR: FOX Sports 2 HD
+http://lunar.pm:8080/RandyJ/9876/135624
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/66347294161.png" group-title="Brazil",BR: Futura HD
+http://lunar.pm:8080/RandyJ/9876/135625
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/8956473683.jpg" group-title="Brazil",BR: FX HD
+http://lunar.pm:8080/RandyJ/9876/135626
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/77952557011.png" group-title="Brazil",BR: Globo Brasilia SD
+http://lunar.pm:8080/RandyJ/9876/135627
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/64309016481.png" group-title="Brazil",BR: Globo EPTV Campinas HD
+http://lunar.pm:8080/RandyJ/9876/135628
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/82301917351.png" group-title="Brazil",BR: Globo EPTV SAO Carlos SD
+http://lunar.pm:8080/RandyJ/9876/135629
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/56707378081.png" group-title="Brazil",BR: Globo Inter TV Cabugi RN SD
+http://lunar.pm:8080/RandyJ/9876/135630
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/8402ba945101c01386b747de7303c80e8028.png" group-title="Brazil",BR: Globo Minas HD
+http://lunar.pm:8080/RandyJ/9876/135631
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/987d863a3fd8be047e7db119e242e9031173.jpg" group-title="Brazil",BR: Globo NEWS HD
+http://lunar.pm:8080/RandyJ/9876/135632
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/6162a45e059f9837536274d4fc9db90f2063.jpg" group-title="Brazil",BR: Globo Nordeste HD
+http://lunar.pm:8080/RandyJ/9876/135633
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/5077514416.png" group-title="Brazil",BR: Globo Nordeste HD
+http://lunar.pm:8080/RandyJ/9876/135634
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/3362376655.png" group-title="Brazil",BR: Globo Premium HD
+http://lunar.pm:8080/RandyJ/9876/135635
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/42862282911.png" group-title="Brazil",BR: Globo RBS Porto Alegre HD
+http://lunar.pm:8080/RandyJ/9876/135636
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/b065d654ab5e9b39203963f6fc55f7fb6243.jpg" group-title="Brazil",BR: Globo RBS TV Pelotas HD
+http://lunar.pm:8080/RandyJ/9876/135637
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/85970836681.png" group-title="Brazil",BR: Globo RJ HD
+http://lunar.pm:8080/RandyJ/9876/135638
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/18721689851.png" group-title="Brazil",BR: Globo RPC Curitiba HD
+http://lunar.pm:8080/RandyJ/9876/135639
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/73698323011.png" group-title="Brazil",BR: Globo RPC HD
+http://lunar.pm:8080/RandyJ/9876/135640
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69112080011.png" group-title="Brazil",BR: Globo RPC TV SD
+http://lunar.pm:8080/RandyJ/9876/135641
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/95780884861.png" group-title="Brazil",BR: Globo SP FHD
+http://lunar.pm:8080/RandyJ/9876/135642
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/71367104351.png" group-title="Brazil",BR: Globo SP HD
+http://lunar.pm:8080/RandyJ/9876/135643
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/00e99b13b409d8c31037ce4bcb7755326291.jpeg" group-title="Brazil",BR: Globo TV Bahia SD
+http://lunar.pm:8080/RandyJ/9876/135644
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/60224497621.png" group-title="Brazil",BR: Globo TV Morena FHD
+http://lunar.pm:8080/RandyJ/9876/135645
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69894889491.png" group-title="Brazil",BR: Globo TV Morena HD
+http://lunar.pm:8080/RandyJ/9876/135646
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/7ea8ab1aea7b30476a22bb107db50df01771.png" group-title="Brazil",BR: Globo TV TEM Sorocaba SD
+http://lunar.pm:8080/RandyJ/9876/135647
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/d9ff25bf513d9d89e2cdca4a0c09c5056859.png" group-title="Brazil",BR: Globo TV Tribuna Santos SD
+http://lunar.pm:8080/RandyJ/9876/135648
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/17104569191.png" group-title="Brazil",BR: GNT HD
+http://lunar.pm:8080/RandyJ/9876/135649
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/67403825551.png" group-title="Brazil",BR: HBO 2 HD
+http://lunar.pm:8080/RandyJ/9876/135650
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/76562714a64ddd6015c82a23e440d8f5.png" group-title="Brazil",BR: HBO Family HD
+http://lunar.pm:8080/RandyJ/9876/135651
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/6bc04cc8977a4bf6a29fc21ba7f16799.png" group-title="Brazil",BR: HBO HD
+http://lunar.pm:8080/RandyJ/9876/135652
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/90716572cb32c8181b1c8a4e39d73ec2.png" group-title="Brazil",BR: HBO PLUS HD
+http://lunar.pm:8080/RandyJ/9876/135653
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/c035b0196baee1723e17c6006ad22b47.png" group-title="Brazil",BR: HBO POP HD
+http://lunar.pm:8080/RandyJ/9876/135654
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/1719996587.jpg" group-title="Brazil",BR: HGTV HD
+http://lunar.pm:8080/RandyJ/9876/135655
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/20435737671.png" group-title="Brazil",BR: History Channel HD
+http://lunar.pm:8080/RandyJ/9876/135656
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/35545143541.png" group-title="Brazil",BR: ID Discovery HD
+http://lunar.pm:8080/RandyJ/9876/135657
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/1355657774.png" group-title="Brazil",BR: MAIS Globosat SD
+http://lunar.pm:8080/RandyJ/9876/135658
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/76714813471.png" group-title="Brazil",BR: MTV HD
+http://lunar.pm:8080/RandyJ/9876/135659
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22147592901.png" group-title="Brazil",BR: MTV LIVE HD
+http://lunar.pm:8080/RandyJ/9876/135660
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/68641119701.png" group-title="Brazil",BR: Multishow HD
+http://lunar.pm:8080/RandyJ/9876/135661
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/51657133271.png" group-title="Brazil",BR: Music BOX Brazil SD
+http://lunar.pm:8080/RandyJ/9876/135662
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/47393207441.png" group-title="Brazil",BR: NAT GEO WILD HD
+http://lunar.pm:8080/RandyJ/9876/135663
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/24258158331.png" group-title="Brazil",BR: Natgeo WILD SD
+http://lunar.pm:8080/RandyJ/9876/135664
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/39a38691d5f8fbcab32f1502052f7994.png" group-title="Brazil",BR: National Geographic HD
+http://lunar.pm:8080/RandyJ/9876/135665
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7064545639.jpg" group-title="Brazil",BR: NICK JR HD
+http://lunar.pm:8080/RandyJ/9876/135666
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/1b3454b39d4bd997c17cc2200547fead726.png" group-title="Brazil",BR: Paramount Channel HD
+http://lunar.pm:8080/RandyJ/9876/135667
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/25497972891.png" group-title="Brazil",BR: Premiere 2 HD
+http://lunar.pm:8080/RandyJ/9876/135668
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/63790375811.png" group-title="Brazil",BR: Premiere 3 HD
+http://lunar.pm:8080/RandyJ/9876/135669
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/57146425911.png" group-title="Brazil",BR: Premiere 4 HD
+http://lunar.pm:8080/RandyJ/9876/135670
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/44389777481.png" group-title="Brazil",BR: Premiere Clubes HD
+http://lunar.pm:8080/RandyJ/9876/135671
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/74723712411.png" group-title="Brazil",BR: Record Campinas HD
+http://lunar.pm:8080/RandyJ/9876/135672
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/6162a45e059f9837536274d4fc9db90f2063.jpg" group-title="Brazil",BR: Record Nordeste HD
+http://lunar.pm:8080/RandyJ/9876/135673
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/79973044021.png" group-title="Brazil",BR: Record RJ HD
+http://lunar.pm:8080/RandyJ/9876/135674
+#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/a3bec7f056052022452c5aa6242693951817.jpeg" group-title="Brazil",BR: Record RJ HD
+http://lunar.pm:8080/RandyJ/9876/135675
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/d332aba2bf4a5c8f73c65b920103da7b.png" group-title="Brazil",BR: Record SP HD
+http://lunar.pm:8080/RandyJ/9876/135676
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/71367104351.png" group-title="Brazil",BR: Record SP HD
+http://lunar.pm:8080/RandyJ/9876/135677
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/97421073901.png" group-title="Brazil",BR: REDE Brasil HD
+http://lunar.pm:8080/RandyJ/9876/135678
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/44993746411.png" group-title="Brazil",BR: REDE Familia SD
+http://lunar.pm:8080/RandyJ/9876/135679
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81734779521.png" group-title="Brazil",BR: REDE Gospel SD
+http://lunar.pm:8080/RandyJ/9876/135680
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22035256581.png" group-title="Brazil",BR: REDE TV HD
+http://lunar.pm:8080/RandyJ/9876/135681
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/66622767311.png" group-title="Brazil",BR: REDE VIDA HD
+http://lunar.pm:8080/RandyJ/9876/135682
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19280859151.png" group-title="Brazil",BR: SBT TV Cidade Verde Piaui SD
+http://lunar.pm:8080/RandyJ/9876/135683
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/72057577221.png" group-title="Brazil",BR: Space HD
+http://lunar.pm:8080/RandyJ/9876/135684
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21014839301.png" group-title="Brazil",BR: Sport TV 3 HD
+http://lunar.pm:8080/RandyJ/9876/135685
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/31058921921.png" group-title="Brazil",BR: SporTV 1 HD
+http://lunar.pm:8080/RandyJ/9876/135686
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/91301065891.png" group-title="Brazil",BR: SporTV 2 FHD
+http://lunar.pm:8080/RandyJ/9876/135687
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/13955294101.png" group-title="Brazil",BR: SporTV 2 HD
+http://lunar.pm:8080/RandyJ/9876/135688
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/31291444621.png" group-title="Brazil",BR: SporTV 3 HD
+http://lunar.pm:8080/RandyJ/9876/135689
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19827211411.png" group-title="Brazil",BR: TCM SD
+http://lunar.pm:8080/RandyJ/9876/135690
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/5240511493.jpg" group-title="Brazil",BR: Telecine Action HD
+http://lunar.pm:8080/RandyJ/9876/135691
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/88137564111.png" group-title="Brazil",BR: Telecine CULT HD
+http://lunar.pm:8080/RandyJ/9876/135692
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84297661441.png" group-title="Brazil",BR: Telecine FUN HD
+http://lunar.pm:8080/RandyJ/9876/135693
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/15677572671.png" group-title="Brazil",BR: Telecine FUN SD
+http://lunar.pm:8080/RandyJ/9876/135694
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81770098591.png" group-title="Brazil",BR: Telecine Pipoca HD
+http://lunar.pm:8080/RandyJ/9876/135695
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/11074488021.png" group-title="Brazil",BR: Telecine Touch HD
+http://lunar.pm:8080/RandyJ/9876/135696
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/62429098861.png" group-title="Brazil",BR: TNT HD
+http://lunar.pm:8080/RandyJ/9876/135697
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/71446616951.png" group-title="Brazil",BR: TNT Series FHD
+http://lunar.pm:8080/RandyJ/9876/135698
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19272543471.png" group-title="Brazil",BR: TNT Séries HD
+http://lunar.pm:8080/RandyJ/9876/135699
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/66038653281.png" group-title="Brazil",BR: Tooncast HD
+http://lunar.pm:8080/RandyJ/9876/135700
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/35817394071.png" group-title="Brazil",BR: TOP TV HD
+http://lunar.pm:8080/RandyJ/9876/135701
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/14657433621.png" group-title="Brazil",BR: TV Diario DO Sertao HD
+http://lunar.pm:8080/RandyJ/9876/135702
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/32180066831.png" group-title="Brazil",BR: TV Gazeta SD
+http://lunar.pm:8080/RandyJ/9876/135703
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/37309598051.png" group-title="Brazil",BR: VH1 HD
+http://lunar.pm:8080/RandyJ/9876/135704
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/67489953771.png" group-title="Brazil",BR: VH1 MEGA HITS SD
+http://lunar.pm:8080/RandyJ/9876/135705
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/74990062061.png" group-title="Brazil",BR: VIVA HD
+http://lunar.pm:8080/RandyJ/9876/135706
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/75462793431.png" group-title="Brazil",BR: Woohoo HD
+http://lunar.pm:8080/RandyJ/9876/135707
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/20886865341.png" group-title="Brazil",BR: Zoomoo HD
+http://lunar.pm:8080/RandyJ/9876/135708
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/17729052711.png" group-title="Brazil",CAnal SONY HD
+http://lunar.pm:8080/RandyJ/9876/135709
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7272328326.jpg" group-title="Brazil",UNiversal Channel SD
+http://lunar.pm:8080/RandyJ/9876/135710
